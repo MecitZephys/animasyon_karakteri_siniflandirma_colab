@@ -1,0 +1,2 @@
+# animasyon_karakteri_siniflandirma_colab
+ Animasyon karakterlerini colab ile sınıflandırma
